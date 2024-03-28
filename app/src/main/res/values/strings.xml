@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">llab03</string>
+    <string name="txt_from">From:</string>
+    <string name="txt_to">to:</string>
+    <string name="edtxt" />
+    <string name="txt_inp_to">...</string>
+    <string name="btn">CONVERT</string>
+</resources>
